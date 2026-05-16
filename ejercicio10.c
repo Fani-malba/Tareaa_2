@@ -5,7 +5,7 @@ void main()
     int i, num;
     int pos = 0, neg = 0, cero = 0; 
 
-    for (i = 1; i <= 3; i++) 
+    for (i = 1; i <= 100; i++) 
     {
         printf("Ingrese el numero %d: ", i); 
         scanf("%d", &num);
